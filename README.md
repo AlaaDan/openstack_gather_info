@@ -87,7 +87,7 @@ Give you page a title, it should be unique and is not used inside the folder you
 **Page space**
 
 Lastly Page space should be passed as well to make sure the page is created in the correct place.
-For example if u want to create the page in the Service operation space then, ywhat u need to do is click on the service operation icon on wiki `https://wiki.citynetwork.se/display/SOPS` <= `SOPS` is the page space for it.
+For example if u want to create the page in the Service operation space then, ywhat u need to do is click on the service operation icon on wiki `https://wiki.<DOMAIN>/display/TEST` <= `TEST` is the page space for it.
 
 To run the script
 
